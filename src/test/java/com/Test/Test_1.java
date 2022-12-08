@@ -23,7 +23,6 @@ public class Test_1 extends BaseClass{
 		Library.custom_click(login.getBtn_login());
 		
 		
-	
 	}
 
 }
